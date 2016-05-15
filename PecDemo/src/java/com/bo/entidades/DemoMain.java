@@ -40,12 +40,23 @@ public class DemoMain {
     }
 
     public static void main(String[] args) {
+        System.out.println("HOLA MNDO");
+        System.out.println("HOLA MNDO");
+        System.out.println("HOLA MNDO");
+        System.out.println("HOLA MNDO");
+        System.out.println("HOLA MNDO");
+        System.out.println("HOLA MNDO");
+        System.out.println("HOLA MNDO");
+        System.out.println("HOLA MNDO");
+        System.out.println("HOLA MNDO");
+        System.out.println("HOLA MNDO");
+        System.out.println("HOLA MNDO");
+        System.out.println("HOLA MNDO");
+        System.out.println("HOLA MNDO");
+        System.out.println("HOLA MNDO");
+        System.out.println("HOLA MNDO");
+        System.out.println("HOLA MNDO");
         
-		String direccion="La Paz Bolivia, Av. 6 de Agosto entre Pinilla y Guachalla";
-		String direccion2="La Paz Bolivia, Av. 6 de Agosto entre Pinilla y Guachalla";
-		String direccion3="La Paz Bolivia, Av. 6 de Agosto entre Pinilla y Guachalla";
-		String direccion4="La Paz Bolivia, Av. 6 de Agosto entre Pinilla y Guachalla";
-		String direccion5="La Paz Bolivia, Av. 6 de Agosto entre Pinilla y Guachalla";
     }
 
 }
