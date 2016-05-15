@@ -40,20 +40,10 @@ public class DemoMain {
     }
 
     public static void main(String[] args) {
-        System.out.println("HOLA MNDO");
-        System.out.println("HOLA MNDO");
-        System.out.println("HOLA MNDO");
-        System.out.println("HOLA MNDO");
-        System.out.println("HOLA MNDO");
-        System.out.println("HOLA MNDO");
-        System.out.println("HOLA MNDO");
-        System.out.println("HOLA MNDO");
-        System.out.println("HOLA MNDO");
-        System.out.println("HOLA MNDO");
-        String persona2;
-        String persona3;
-        String persona4;
-        String persona5;
+        int numero1=4;
+        int numero2=4;
+        int numero3=4;
+        
 
     }
 
