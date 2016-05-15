@@ -50,6 +50,12 @@ public class DemoMain {
         System.out.println("HOLA MNDO");
         System.out.println("HOLA MNDO");
         System.out.println("HOLA MNDO");
-    }
+		String persona2;
+		String persona3;
+		String persona4;
+		String persona2;
+		String persona2;
+		
+		}
 
 }
