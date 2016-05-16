@@ -44,6 +44,11 @@ public class DemoMain {
         int numero2=4;
         int numero3=4;
         
+        
+        String persona2;
+        String persona3;
+        String persona4;
+        String persona5;
 
     }
 
